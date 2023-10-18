@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Suraj785604/Dasboard.git/static/css/main.e9a24ea2.css",
-    "main.js": "/Suraj785604/Dasboard.git/static/js/main.c897eabb.js",
-    "index.html": "/Suraj785604/Dasboard.git/index.html",
-    "main.e9a24ea2.css.map": "/Suraj785604/Dasboard.git/static/css/main.e9a24ea2.css.map",
-    "main.c897eabb.js.map": "/Suraj785604/Dasboard.git/static/js/main.c897eabb.js.map"
+    "main.css": "/Suraj785604/Dasboard/static/css/main.e9a24ea2.css",
+    "main.js": "/Suraj785604/Dasboard/static/js/main.c897eabb.js",
+    "index.html": "/Suraj785604/Dasboard/index.html",
+    "main.e9a24ea2.css.map": "/Suraj785604/Dasboard/static/css/main.e9a24ea2.css.map",
+    "main.c897eabb.js.map": "/Suraj785604/Dasboard/static/js/main.c897eabb.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a24ea2.css",
